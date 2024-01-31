@@ -12,7 +12,7 @@ the if statement following will check whether the account number included in det
 if yes programme will move to next stage otherwise will get exit.
 the next dictionary login details contain name of the user as key and 3 digit pin number as values.
 if the first stage was successful user will get a message to enter 3 digit pin to complete login.
-if there is any mismatch between account number , user name,pin the programme will stop running after giving a message invalid pi
+if there is any mismatch between account number , user name,pin the programme will stop running after giving a message invalid pin
 other wise the programme will move on to the next stage
 next,the user get a chart which contain 4 options a,b,c,d .
 user any can choose any one of the option.choosing option other than this will follow an error message and advise to try again
