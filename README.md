@@ -1,7 +1,7 @@
 this is a python programme to execute a simple banking system.
 for that a class named banking system has created.
 This class contain one method named login which guide the user to login to the bank.
-if the user completed login successfully a chart which contain 4 otions a,b,c,d used for view balance,deposit,withdraw,logout respectively will be displayed.
+if the user completed login successfully a chart which contain 4 options a,b,c,d used for view balance,deposit,withdraw,logout respectively will be displayed.
 user can choose any one of them and that will guide for further activities.
 after that a thanking message is displayed.
 
